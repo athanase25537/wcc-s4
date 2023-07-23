@@ -61,7 +61,8 @@
 }
 #home .text .price-contain .price p{
     font-size: .9em;
-    color : var(--text2)
+    color : var(--text2);
+    text-decoration : line-through;
 }
 
 #home .text .price-contain .buy-now a{
